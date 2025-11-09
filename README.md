@@ -21,5 +21,4 @@ ex : {"Porte":0,"Commande":"h30,"Status":"STOVE - ON : auto"}
 
 It's impossible to have the poele status without sending an order before.
 
-
-![alt text]([image-url](https://github.com/YannickF/RIKA_HOMEASSISTANT/blob/main/rika.jpg))
+https://github.com/YannickF/RIKA_HOMEASSISTANT/blob/main/rika.jpg
